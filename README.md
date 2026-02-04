@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: [pandeyarchit68](https://github.com/pandeyarchit68)
-
+- GitHub: https://github.com/pandeyarchit68
+- LinkedIn: https://www.linkedin.com/in/pandeyarchit68/
 ---
 
 ⭐ *Always learning, always improving.*
