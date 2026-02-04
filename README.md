@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Archit Pandey
 
-<!--
-**pandeyarchit68/pandeyarchit68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science student  
+💻 Learning Web Development & Programming  
+🚀 Curious about Technology, Design, and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Currently learning **HTML, CSS, JavaScript**
+- 🧠 Interested in **Web Development & Core CS**
+- 🎯 Focused on building skills step by step
+- 🇮🇳 Proud Indian | Tech enthusiast
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C, HTML, CSS
+- **Tools:** VS Code, Git, GitHub
+- **Learning:** JavaScript, Tailwind CSS
+
+---
+
+## 📌 Current Goals
+- Build clean and responsive websites  
+- Improve Git & GitHub skills  
+- Learn JavaScript fundamentals  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [pandeyarchit68](https://github.com/pandeyarchit68)
+
+---
+
+⭐ *Always learning, always improving.*
