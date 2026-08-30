@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C, HTML, CSS
+- **Languages:** C,C++, Python, HTML, CSS
 - **Tools:** VS Code, Git, GitHub
 - **Learning:** JavaScript, Tailwind CSS
 
