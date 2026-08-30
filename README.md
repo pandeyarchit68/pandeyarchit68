@@ -7,7 +7,7 @@
 ---
 
 ## 🔥 About Me
-- 🌱 Currently learning **HTML, CSS, JavaScript**
+- 🌱 Currently learning **CSS, JavaScript,Cpp, DSA with C**
 - 🧠 Interested in **Web Development & Core CS**
 - 🎯 Focused on building skills step by step
 - 🇮🇳 Proud Indian | Tech enthusiast
@@ -15,9 +15,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C,C++, Python, HTML, CSS
+- **Languages:** C, C++, Python, HTML, CSS
 - **Tools:** VS Code, Git, GitHub
-- **Learning:** JavaScript, Tailwind CSS
+- **Learning:** JavaScript, DSA
 
 ---
 
